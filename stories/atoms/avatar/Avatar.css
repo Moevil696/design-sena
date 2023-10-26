@@ -1,0 +1,38 @@
+@import '../..common/variables.css'
+
+.avatar {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    font-family: system-ui, 
+    margin 20px;
+}
+.avatar-image {
+    width: 100px;
+    height: 100px;
+    border-radius: 50%;
+    object-fit: cover;
+    margin-bottom: 10px;
+}
+
+.avatar-name {
+    font-size: 18px;
+    font-weight: bold;
+    color: var(--CTA-Primary-Blue)
+}
+
+/* Estilos para tamaños */
+.avatar-small {
+    width: 80px;
+    height: 80px;
+}
+
+.avatar-medium {
+    width: 100px;
+    height: 100px;
+}
+
+.avatar-large {
+    width: 120px;
+    height: 120px;
+}

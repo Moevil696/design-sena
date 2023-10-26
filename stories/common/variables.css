@@ -1,0 +1,89 @@
+:root
+--CTA-Primary-Blue, #9ED1FF
+--CTA-Secundary-Blue, #3D5DAE
+--CTA-tertiary-Blue, #3F4961
+--CTA-Primary-White, #FFF
+--CTA-Secundary-White, #F3F7FF
+--CTA-tertiary-white, #D9D9D9
+--CTA-Primary-Black, #000
+--CTA-Secundary-Black, #292929
+box-shadow: 0px 10px 44px 0px rgba(0, 0, 0, 0.25);
+box-shadow: 0px 4px 20px 0px rgba(0, 0, 0, 0.50);
+/* CTA primary */
+font-family: Istok Web;
+font-size: 64px;
+font-style: normal;
+font-weight: 700;
+line-height: normal;
+/* CTA Secundary */
+font-family: Istok Web;
+font-size: 48px;
+font-style: normal;
+font-weight: 700;
+line-height: normal;
+/* CTA tertiary */
+font-family: Istok Web;
+font-size: 40px;
+font-style: normal;
+font-weight: 700;
+line-height: normal;
+/* CTA tertiary - regular */
+font-family: Istok Web;
+font-size: 40px;
+font-style: normal;
+font-weight: 400;
+line-height: normal;
+/* CTA text */
+font-family: Istok Web;
+font-size: 36px;
+font-style: normal;
+font-weight: 400;
+line-height: normal;
+/* CTA text 1 */
+font-family: Istok Web;
+font-size: 32px;
+font-style: normal;
+font-weight: 400;
+line-height: normal;
+/* CTA text 2 */
+font-family: Istok Web;
+font-size: 24px;
+font-style: normal;
+font-weight: 400;
+line-height: normal;
+/* CTA text 3 */
+font-family: Istok Web;
+font-size: 20px;
+font-style: normal;
+font-weight: 400;
+line-height: normal;
+/* CTA text 4 */
+font-family: Istok Web;
+font-size: 16px;
+font-style: normal;
+font-weight: 400;
+line-height: normal;
+/* CTA text 8 */
+font-family: Istok Web;
+font-size: 12px;
+font-style: normal;
+font-weight: 400;
+line-height: normal;
+/* CTA paragraph 3 */
+font-family: Cuprum;
+font-size: 24px;
+font-style: normal;
+font-weight: 400;
+line-height: normal;
+/* CTA paragraph 2 */
+font-family: Cuprum;
+font-size: 20px;
+font-style: normal;
+font-weight: 400;
+line-height: normal;
+/* CTA paragraph 1 */
+font-family: Cuprum;
+font-size: 16px;
+font-style: normal;
+font-weight: 400;
+line-height: normal;

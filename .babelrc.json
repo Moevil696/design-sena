@@ -1,7 +1,7 @@
 {
   "sourceType": "unambiguous",
-  "presets": [
-    [
+  "presets": [ 
+    [ 
       "@babel/preset-env",
       {
         "targets": {
@@ -10,7 +10,8 @@
           "firefox": 91
         }
       }
-    ]
+    ],
+    "@babel/preset-react"
   ],
   "plugins": []
 }

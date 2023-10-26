@@ -14,7 +14,7 @@ export default {
     }
 }
 
-const Template = (args) => <Avatar { ...args} />
+const Template = args => <Avatar { ...args} />
 
 export const small = Template.bind({})
 small.args = {
